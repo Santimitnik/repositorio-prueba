@@ -7,9 +7,13 @@
   box-sizing: border-box; }
 
 body {
-  background-color: rgb(255, 255, 255);
+<<<<<<< HEAD
+  background-color: blue;
+=======
+  background-color: red;
+>>>>>>> nombreRama
   font-family: "Open Sans", sans-serif;
-  color: rgb(255, 0, 0);
+  color: rgb(177, 0, 147);
   overflow-x: hidden; }
 
 /* -------------------- General ----------------- */
